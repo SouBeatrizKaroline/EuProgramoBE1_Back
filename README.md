@@ -1,6 +1,6 @@
 # Eu Progr{amo} Back-End #1
 
-> Turma 24
+> Turma 1
 
 Servidor com node.js feito
 
